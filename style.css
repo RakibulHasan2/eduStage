@@ -36,7 +36,27 @@ popular course section style */
     position: relative;
     top: -25px;
 }
+/* 
+register section style */
+.register-section{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    height: 450px;
+    background-color: rgb(7, 25, 65);
+}
+.register-info{
+    margin-top: 50px;
 
+}
+.register-form{
+    height: 300px;
+    border: 1px solid white;
+}
+.timer{
+    height: 100px;
+    width: 140px;
+    background-color: rgb(29, 71, 92);
+}
 /* expert trainer section styling */
 
 .expert-pic{
