@@ -46,11 +46,17 @@ register section style */
 }
 .register-info{
     margin-top: 50px;
-
 }
 .register-form{
-    height: 300px;
-    border: 1px solid white;
+    height: 350px;
+    width: 250px;
+    background-color: rgb(186, 194, 194);
+    border-radius: 10px;
+}
+.register-form input{
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
 }
 .timer{
     height: 100px;
@@ -69,4 +75,17 @@ register section style */
 .client-pic{
     height: 150px;
     width: 150px;
+}
+
+/* footer section */
+.footer-section{
+    background-color: rgb(29, 71, 92);
+    padding: 20px;
+
+}
+.footer-section a{
+    text-decoration: none;
+}
+.news-letter{
+    width: 300px;
 }
